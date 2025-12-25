@@ -1,0 +1,261 @@
+1. Introduction to Mobile Computing
+
+Definition of mobile computing
+
+Evolution of mobile computing
+
+Characteristics of mobile computing
+
+Advantages and disadvantages
+
+Applications of mobile computing
+
+Comparison: mobile computing vs traditional computing
+
+2. Mobile Computing Architecture
+
+Client–server architecture
+
+Peer-to-peer architecture
+
+Three-tier architecture
+
+Components of mobile computing
+
+Hardware and software architecture
+
+3. Mobile Devices and Operating Systems
+
+Mobile devices (smartphones, tablets, wearables)
+
+Mobile hardware components
+
+Mobile operating systems
+
+Android
+
+iOS
+
+Mobile OS architecture
+
+Power management in mobile devices
+
+4. Wireless Communication Basics
+
+Wireless transmission fundamentals
+
+Wireless media (radio, infrared, microwave)
+
+Signal propagation
+
+Noise and interference
+
+Bandwidth and data rates
+
+5. Wireless and Mobile Networks
+
+Cellular network concepts
+
+GSM architecture
+
+GPRS and EDGE
+
+3G networks
+
+4G LTE
+
+5G overview
+
+Wi-Fi (IEEE 802.11)
+
+Bluetooth
+
+NFC
+
+6. Mobile Internet Protocols
+
+Mobile IP
+
+IP addressing in mobile networks
+
+Handover management
+
+Routing in mobile networks
+
+Session management
+
+7. Mobility Management
+
+Location management
+
+Handoff / handover techniques
+
+Roaming
+
+Registration and authentication
+
+8. Mobile Transport and Application Protocols
+
+TCP issues in mobile networks
+
+Mobile TCP
+
+UDP in mobile environments
+
+HTTP/HTTPS in mobile systems
+
+WAP (Wireless Application Protocol)
+
+9. Mobile Application Development
+
+Mobile application models
+
+Native applications
+
+Web applications
+
+Hybrid applications
+
+Mobile UI design principles
+
+Mobile app performance optimization
+
+10. Mobile Cloud Computing
+
+Introduction to mobile cloud computing
+
+Cloud service models (IaaS, PaaS, SaaS)
+
+Cloud-based mobile applications
+
+Benefits and challenges
+
+Offloading computation to cloud
+
+11. Mobile Data Management
+
+Mobile databases
+
+Data replication
+
+Data synchronization
+
+Caching strategies
+
+Consistency models
+
+12. Mobile Security
+
+Security threats in mobile computing
+
+Authentication techniques
+
+Encryption and data protection
+
+Secure communication
+
+Malware and mobile viruses
+
+Privacy issues
+
+13. Location-Based Services (LBS)
+
+GPS fundamentals
+
+Location determination techniques
+
+Geofencing
+
+Applications of LBS
+
+Privacy challenges in LBS
+
+14. Context-Aware Computing
+
+Context definition
+
+Types of context (location, time, activity)
+
+Context-aware applications
+
+Sensors in mobile devices
+
+15. Mobile Multimedia Computing
+
+Audio and video streaming
+
+Multimedia compression
+
+QoS in mobile multimedia
+
+Real-time communication
+
+16. Energy and Power Management
+
+Battery technology
+
+Energy consumption issues
+
+Power-aware computing
+
+Energy-efficient protocols
+
+17. Mobile Ad Hoc Networks (MANETs)
+
+Introduction to MANETs
+
+Characteristics of MANETs
+
+Routing protocols
+
+Applications of MANETs
+
+Challenges in MANETs
+
+18. Internet of Things (IoT) and Mobile Computing
+
+Relationship between IoT and mobile computing
+
+Sensors and actuators
+
+Communication protocols
+
+Mobile devices as IoT controllers
+
+19. Emerging Trends in Mobile Computing
+
+5G and beyond
+
+Edge computing
+
+AI in mobile computing
+
+Augmented reality (AR) and virtual reality (VR)
+
+Wearable computing
+
+20. Case Studies and Real-World Applications
+
+Mobile banking systems
+
+E-commerce applications
+
+Healthcare mobile applications
+
+Smart cities
+
+Transportation and navigation systems
+
+Simple advice
+
+If this is for exams, focus more on:
+
+Architecture
+
+Wireless networks
+
+Mobile IP
+
+Security
+
+Mobile cloud computing
